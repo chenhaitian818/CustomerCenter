@@ -1,57 +1,59 @@
-# Ant Design Pro
+# 用户中心
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
+该项目是使用[Ant Design Pro](https://pro.ant.design/)初始化的。以下是如何使用的快速指南。
 
-## Environment Prepare
+## 环境准备
 
-Install `node_modules`:
+安装`node_modules`：
 
-```bash
+```
 npm install
 ```
 
-or
+或者
 
-```bash
+```
 yarn
 ```
 
-## Provided Scripts
+## 提供的脚本
 
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
+Ant Design Pro 提供了一些有用的脚本来帮助您快速启动和构建 Web 项目、代码风格检查和测试。
 
-Scripts provided in `package.json`. It's safe to modify or add additional script:
+中提供的脚本`package.json`。修改或添加其他脚本是安全的：
 
-### Start project
+### 启动项目
 
-```bash
+```
 npm start
 ```
 
-### Build project
+### 构建项目
 
-```bash
+```
 npm run build
 ```
 
-### Check code style
+### 检查代码风格
 
-```bash
+```
 npm run lint
 ```
 
-You can also use script to auto fix some lint error:
+您还可以使用脚本自动修复一些 lint 错误：
 
-```bash
+```
 npm run lint:fix
 ```
 
-### Test code
+### 测试代码
 
-```bash
+```
 npm test
 ```
 
-## More
+##  关于我们
 
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+项目源代码已经提交到github仓库，具体请进入网站查看
+
+网址:https://github.com/chenhaitian818/CustomerCenter
